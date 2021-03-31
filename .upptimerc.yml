@@ -17,8 +17,8 @@ status-website:
   theme: ocean
   logoUrl: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-logo.png
   favicon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon.png
-  name: Freehold Status
-  introTitle: "Freehold Status Monitor - powered by **Upptime** and **GitHub**"
+  name: Live Status
+  introTitle: "**Freehold Status Monitor**"
   introMessage: Status for the Freehold services are shown below.
   navbar:
     - title: Status
