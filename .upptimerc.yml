@@ -1,27 +1,39 @@
 # Change these first
-owner: JoinFreehold # Your GitHub organization or username
+owner: joinfreehold # Your GitHub organization or username
 repo: freehold-status # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Freehold
     url: https://www.joinfreehold.com
-
+  - name: Freehold API
+    url: http://167.99.228.107:3999/v2/info
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /freehold-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: ocean
+  logoUrl: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-logo.png
+  favicon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon.png
   name: Freehold Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "Status for the Freehold website is shown below."
+  introTitle: "Freehold Status Monitor - powered by **Upptime** and **GitHub**"
+  introMessage: Status for the Freehold services are shown below.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/JoinFreehold/freehold-status
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "*/30 * * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
