@@ -6,8 +6,10 @@ repo: freehold-status # Your GitHub repository name
 sites:
   - name: Freehold Website
     url: https://www.joinfreehold.com
+    icon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon-blue.png
   - name: Freehold API
     url: http://167.99.228.107:3999/v2/info
+    icon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon-green.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -16,7 +18,7 @@ status-website:
   # baseUrl: /freehold-status
   theme: ocean
   logoUrl: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-logo.png
-  favicon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon.png
+  favicon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon-blue.png
   name: Live Status
   introTitle: "**Freehold Status Monitor**"
   introMessage: Status for the Freehold services are shown below.
