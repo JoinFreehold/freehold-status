@@ -4,7 +4,7 @@ repo: freehold-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Freehold
+  - name: Freehold Website
     url: https://www.joinfreehold.com
   - name: Freehold API
     url: http://167.99.228.107:3999/v2/info
