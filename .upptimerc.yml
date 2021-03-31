@@ -16,8 +16,8 @@ status-website:
   cname: freehold.absorbingchaos.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /freehold-status
-  # theme: ocean
-  themeUrl: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold.css
+  theme: dark
+  # themeUrl: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold.css
   logoUrl: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-logo.png
   favicon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon-blue.png
   name: Live Status
