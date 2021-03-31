@@ -9,7 +9,7 @@ sites:
     icon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon-blue.png
   - name: Freehold API
     url: http://167.99.228.107:3999/v2/info
-    icon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon-green.png
+    icon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon-blue.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -30,6 +30,9 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+assignees:
+  - whoabuddy
 
 workflowSchedule:
   graphs: "0 0 * * *"
