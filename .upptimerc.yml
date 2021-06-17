@@ -8,7 +8,7 @@ sites:
     url: https://www.joinfreehold.com
     icon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon-blue.png
   - name: Freehold Stacks Node API
-    url: http://167.99.228.107:3999/v2/info
+    url: https://stacks-node.joinfreehold.com/v2/info
     icon: https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon-blue.png
 
 status-website:
