@@ -4,7 +4,7 @@
     "url": "https://www.joinfreehold.com",
     "icon": "https://raw.githubusercontent.com/JoinFreehold/freehold-status/master/assets/freehold-icon-blue.png",
     "slug": "freehold-website-webflow",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 207,
     "timeDay": 281,
-    "timeWeek": 206,
+    "timeWeek": 205,
     "timeMonth": 196,
     "timeYear": 207,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
-    "timeDay": 1475,
-    "timeWeek": 1334,
-    "timeMonth": 1296,
+    "timeDay": 1482,
+    "timeWeek": 1338,
+    "timeMonth": 1297,
     "timeYear": 790,
     "dailyMinutesDown": {}
   }
