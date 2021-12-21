@@ -1,3 +1,9 @@
+# THIS REPOSITORY IS ARCHIVED
+
+I thought this was a really cool concept, but ended up not needing/using it as much as I thought I would.
+
+-----
+
 # [📈 Live Status](https://JoinFreehold.github.io/freehold-status): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Freehold](https://joinfreehold.com), powered by [Upptime](https://github.com/upptime/upptime).
